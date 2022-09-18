@@ -1,0 +1,15 @@
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\bin\Debug\net6.0\Zadanie.exe
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\bin\Debug\net6.0\Zadanie.deps.json
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\bin\Debug\net6.0\Zadanie.runtimeconfig.json
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\bin\Debug\net6.0\Zadanie.dll
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\bin\Debug\net6.0\Zadanie.pdb
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.csproj.AssemblyReference.cache
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfoInputs.cache
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfo.cs
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.csproj.CoreCompileInputs.cache
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.dll
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\refint\Zadanie.dll
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.pdb
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\Zadanie.genruntimeconfig.cache
+D:\Geek\Проверочная работа 1 часть\Пр к 1ч\Test1\Zadanie\obj\Debug\net6.0\ref\Zadanie.dll
